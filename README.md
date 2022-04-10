@@ -15,7 +15,7 @@ I know that I'm able to do MUCH BETTER than this but that's what I was able to d
 
 
 
-I would LOVE to have a more detailed talk with developers from A1 and explain to them my code and possible solutions and things I wanted to add to this project.
+I would LOVE to have a more detailed talk with developers from A1 and explain to them my code... possible solutions and things I wanted to add to this project.
 
 
 I hope you will appreciate what I managed to do in this short period of time, thank you!
