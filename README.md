@@ -19,3 +19,6 @@ I would LOVE to have a more detailed talk with developers from A1 and explain to
 
 
 I hope you will appreciate what I managed to do in this short period of time, thank you!
+
+
+Check it out also here: 
