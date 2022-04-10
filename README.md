@@ -1,6 +1,6 @@
 # A1-Project
 
-Hi! READ THIS >>>>>>
+HI DEVS FROM A1! Please read bellow.
 
 Considering I had less than 4 days to create this project I did a pretty good job BUT if I had ONE more day to FINISH the rest of the code that would be great!
 
